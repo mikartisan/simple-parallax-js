@@ -11,7 +11,6 @@ This is a simple parallax scrolling website inspired by a tutorial from Codehal.
 ## 🖼 Features
 
 -   Smooth parallax scrolling
--   Responsive design
 -   Basic navigation menu
 -   Custom background imagery
 
