@@ -8,7 +8,7 @@
 }
 
 body {
-    background: #f9f9f9;
+    background: #ec9359;
     min-height: 100vh;
     /* overflow-x: hidden; */
 }
@@ -20,20 +20,21 @@ header {
     width: 100%;
     padding: 30px 100px;
     display: flex;
-    justify-content: flex-start;
+    justify-content: space-between;
     align-items: center;
     z-index: 100;
+    
 }
 
 .logo {
     font-size: 2em;
-    color: #359381;
+    color: #45120f;
     pointer-events: none;
 }
 
 .navigation a {
     text-decoration: none;
-    color: #359381;
+    color: #45120f;
     padding: 6px 15px;
     border-radius: 20px;
     margin: 0 10px;
@@ -42,7 +43,7 @@ header {
 
 .navigation a:hover,
 .navigation a.active {
-    background: #359381;
+    background: #68251c;
     color: #fff;
 }
 
@@ -57,20 +58,25 @@ header {
 #text {
     position: absolute;
     font-size: 5em;
-    color: black;
+    color: #f2c994;
+    bottom: 20%; 
+    left: 50%;   
+    transform: translateX(-50%); 
+    margin: 0;  
+    width: 100%;
+    text-align: center; 
 }
-
-/* .parallax img {
+.parallax img {
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     pointer-events: none;
-} */
+}
 
 .sec {
     position: relative;
-    background: #003329;
+    background: #45120f;
     padding: 100px;
 }
 
@@ -84,4 +90,16 @@ header {
     font-size: 1em;
     color: #fff;
     font-weight: 300;
+}
+
+.footer {
+    background-color: #68251c;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.footer-content p {
+    margin: 0;
+    font-size: 1em;
 }
