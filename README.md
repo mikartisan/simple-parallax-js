@@ -19,6 +19,7 @@ This is a simple parallax scrolling website inspired by a tutorial from Codehal.
 -   HTML5
 -   CSS3
 -   Vanilla JavaScript
+-   Canva For Images
 
 ## 📸 Preview
 
@@ -29,7 +30,7 @@ This is a simple parallax scrolling website inspired by a tutorial from Codehal.
 
 ## 👨‍💻 Credits
 
--   Design & Tutorial Reference: [Codehal](https://youtu.be/kmM6mqvnxcs?si=ZfpqIC-TouYRm3uA)
+- Tutorial Reference: [Codehal](https://youtu.be/kmM6mqvnxcs?si=ZfpqIC-TouYRm3uA)
 
 ## 📄 License
 
