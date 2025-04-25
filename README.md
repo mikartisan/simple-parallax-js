@@ -23,8 +23,8 @@ This is a simple parallax scrolling website inspired by a tutorial from Codehal.
 ## 📸 Preview
 
 <p>
-  <img src="images/ss-one.png" alt="Screenshot 1" width="200px" />
-  <img src="images/ss-two.png" alt="Screenshot 2" width="200px" />
+  <img src="images/ss-one.png" alt="Screenshot 1" width="500px" />
+  <img src="images/ss-two.png" alt="Screenshot 2" width="500px" />
 </p>
 
 ## 👨‍💻 Credits
